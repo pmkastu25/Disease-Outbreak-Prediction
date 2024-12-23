@@ -1,13 +1,10 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🤖 Disease Outbreak Prediction-Machine Learning App
 
-Description of the app ...
+This is an Application Which Will help Predict Diseases
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://do_machine_learning.streamlit.app/)
 
 ## GitHub Codespaces
 
